@@ -118,3 +118,4 @@ launch.json
 
 libraries/**/**/build
 libraries/**/**/.build
+android/app/google-services.json
